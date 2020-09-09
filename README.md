@@ -7,7 +7,7 @@ https://www.kaggle.com/AnalyzeBoston/crimes-in-boston
 
 Output
 ---
-[🔗Notion OutPut](https://www.notion.so/Boston-Crime-Analysis-ea6ded8e7fec4eb3ad70ac4b0c284acc)
+[🔗Notion Output](https://www.notion.so/Boston-Crime-Analysis-ea6ded8e7fec4eb3ad70ac4b0c284acc)
 
 Contributor
 ---
